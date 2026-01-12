@@ -1,12 +1,24 @@
 {
   "books": [
+  {
+  "id": "kafi",
+  "title": "الكافي",
+  "author": "الكليني",
+  "cover": "covers/rsfgedgr.jpeg",
+  "parts": [
     {
-      "id": "kafi_001",
-      "title": "الكافي",
-      "author": "الكليني",
-      "cover": "covers/rsfgedgr.jpeg",
-      "pdf": ""
+      "id": "kafi_1",
+      "title": "الجزء الأول",
+      "pdf": "pdfs/rsfgedgr.pdf"
     },
+    {
+      "id": "kafi_2",
+      "title": "الجزء الثاني",
+      "pdf": "pdfs/rsfgedgr.pdf"
+    }
+  ]
+}
+
     {
       "id": "nahj_001",
       "title": "نهج البلاغة",
