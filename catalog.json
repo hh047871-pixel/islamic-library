@@ -19,13 +19,14 @@
   ]
 }
 
-    {
-      "id": "nahj_001",
-      "title": "نهج البلاغة",
-      "author": "الإمام علي (ع)",
-      "cover": "covers/rsfgedgr.jpeg",
-      "pdf": ""
-    },
+ {
+  "id": "nahj",
+  "title": "نهج البلاغة",
+  "author": "الإمام علي (ع)",
+  "cover": "covers/nahj.jpeg",
+  "pdf": "pdfs/rsfgedgr.pdf"
+}
+
  
     {
       "id": "wasael_001",
