@@ -1,6 +1,6 @@
 {
   "books": [
-{
+    {
       "id": "kafi",
       "title": "الكافي",
       "author": "الكليني",
@@ -47,7 +47,8 @@
           "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الروضة - ج8 - الشيخ محمد بن يعقوب الكليني.pdf"
         }
       ]
-    }
+    },
+
     {
       "id": "nahj",
       "title": "نهج البلاغة",
