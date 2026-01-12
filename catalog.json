@@ -4,14 +4,14 @@
       "id": "1",
       "title": "القرآن الكريم",
       "author": "كتاب الله",
-      "cover": "https://i.imgur.com/2yaf2wb.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Quran_Kareem.svg/512px-Quran_Kareem.svg.png",
       "pdf": ""
     },
     {
       "id": "2",
       "title": "تفسير ابن كثير",
       "author": "ابن كثير",
-      "cover": "https://i.imgur.com/Y9y3F2Z.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tafsir_Ibn_Kathir_book_cover.jpg",
       "pdf": ""
     }
   ]
