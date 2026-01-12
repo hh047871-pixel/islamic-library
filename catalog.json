@@ -1,39 +1,38 @@
 {
   "books": [
-  {
-  "id": "kafi",
-  "title": "الكافي",
-  "author": "الكليني",
-  "cover": "covers/rsfgedgr.jpeg",
-  "parts": [
     {
-      "id": "kafi_1",
-      "title": "الجزء الأول",
+      "id": "kafi",
+      "title": "الكافي",
+      "author": "الكليني",
+      "cover": "covers/rsfgedgr.jpeg",
+      "parts": [
+        {
+          "id": "kafi_1",
+          "title": "الجزء الأول",
+          "pdf": "pdfs/rsfgedgr.pdf"
+        },
+        {
+          "id": "kafi_2",
+          "title": "الجزء الثاني",
+          "pdf": "pdfs/rsfgedgr.pdf"
+        }
+      ]
+    },
+
+    {
+      "id": "nahj",
+      "title": "نهج البلاغة",
+      "author": "الإمام علي (ع)",
+      "cover": "covers/rsfgedgr.jpeg",
       "pdf": "pdfs/rsfgedgr.pdf"
     },
-    {
-      "id": "kafi_2",
-      "title": "الجزء الثاني",
-      "pdf": "pdfs/rsfgedgr.pdf"
-    }
-  ]
-}
 
- {
-  "id": "nahj",
-  "title": "نهج البلاغة",
-  "author": "الإمام علي (ع)",
-  "cover": "covers/nahj.jpeg",
-  "pdf": "pdfs/rsfgedgr.pdf"
-}
-
- 
     {
       "id": "wasael_001",
       "title": "وسائل الشيعة",
       "author": "الحر العاملي",
       "cover": "covers/rsfgedgr.jpeg",
-      "pdf": ""
+      "pdf": "pdfs/rsfgedgr.pdf"
     }
   ]
 }
