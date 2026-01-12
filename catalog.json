@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "القرآن الكريم",
+      "author": "كتاب الله",
+      "cover": "https://i.imgur.com/2yaf2wb.jpg",
+      "pdf": ""
+    },
+    {
+      "id": "2",
+      "title": "تفسير ابن كثير",
+      "author": "ابن كثير",
+      "cover": "https://i.imgur.com/Y9y3F2Z.jpg",
+      "pdf": ""
+    }
+  ]
+}
