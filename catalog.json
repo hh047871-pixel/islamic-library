@@ -1,10 +1,25 @@
 {
   "books": [
     {
-      "id": "1",
-      "title": "القرآن الكريم",
-      "author": "كتاب الله",
-      "cover": "covers/rsfgedgr.jpeg",
+      "id": "kafi_001",
+      "title": "الكافي",
+      "author": "الكليني",
+      "cover": "covers/kafi.jpeg",
+      "pdf": ""
+    },
+    {
+      "id": "nahj_001",
+      "title": "نهج البلاغة",
+      "author": "الإمام علي (ع)",
+      "cover": "covers/nahj.jpeg",
+      "pdf": ""
+    },
+ 
+    {
+      "id": "wasael_001",
+      "title": "وسائل الشيعة",
+      "author": "الحر العاملي",
+      "cover": "covers/wasael.jpeg",
       "pdf": ""
     }
   ]
