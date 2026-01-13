@@ -5,48 +5,49 @@
       "title": "الكافي",
       "author": "الكليني",
       "cover": "covers/kafi.jpg",
-      "parts": [
-        {
-          "id": "kafi_1",
-          "title": "الجزء الأول",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الأصول - ج1 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_2",
-          "title": "الجزء الثاني",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الأصول - ج2 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_3",
-          "title": "الجزء الثالث",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الفروع - ج3 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_4",
-          "title": "الجزء الرابع",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الفروع - ج4 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_5",
-          "title": "الجزء الخامس",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الفروع - ج5 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_6",
-          "title": "الجزء السادس",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الفروع - ج6 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_7",
-          "title": "الجزء السابع",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الفروع - ج7 - الشيخ محمد بن يعقوب الكليني.pdf"
-        },
-        {
-          "id": "kafi_8",
-          "title": "الجزء الثامن",
-          "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/pdfs/الكافي - الروضة - ج8 - الشيخ محمد بن يعقوب الكليني.pdf"
-        }
-      ]
+     "parts": [
+  {
+    "id": "kafi_1",
+    "title": "الجزء الأول",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_usul_1.pdf"
+  },
+  {
+    "id": "kafi_2",
+    "title": "الجزء الثاني",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_usul_2.pdf"
+  },
+  {
+    "id": "kafi_3",
+    "title": "الجزء الثالث",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_3.pdf"
+  },
+  {
+    "id": "kafi_4",
+    "title": "الجزء الرابع",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_4.pdf"
+  },
+  {
+    "id": "kafi_5",
+    "title": "الجزء الخامس",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_5.pdf"
+  },
+  {
+    "id": "kafi_6",
+    "title": "الجزء السادس",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_6.pdf"
+  },
+  {
+    "id": "kafi_7",
+    "title": "الجزء السابع",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_7.pdf"
+  },
+  {
+    "id": "kafi_8",
+    "title": "الجزء الثامن",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_rawda_8.pdf"
+  }
+]
+
     },
 
     {
