@@ -8,56 +8,56 @@
      "parts": [
   {
     "id": "kafi_1",
-    "title": "الجزء الأول",
+    "title": "الجزء الأول-اصول الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_usul_1.pdf"
   },
   {
     "id": "kafi_2",
-    "title": "الجزء الثاني",
+    "title": "الجزء الثاني-اصول الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_usul_2.pdf"
   },
   {
     "id": "kafi_3",
-    "title": "الجزء الثالث",
+    "title": "الجزء الثالث-فروع الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_3.pdf"
   },
   {
     "id": "kafi_4",
-    "title": "الجزء الرابع",
+    "title": "الجزء الرابع-فروع الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_4.pdf"
   },
   {
     "id": "kafi_5",
-    "title": "الجزء الخامس",
+    "title": "الجزء الخامس-فروع الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_5.pdf"
   },
   {
     "id": "kafi_6",
-    "title": "الجزء السادس",
+    "title": "الجزء السادس-فروع الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
        "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_6.pdf"
   },
   {
     "id": "kafi_7",
-    "title": "الجزء السابع",
+    "title": "الجزء السابع-فروع الكافي",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_7.pdf"
   },
   {
     "id": "kafi_8",
-    "title": "الجزء الثامن",
+    "title": "الجزء الثامن-الروضة",
       "author": "ثقة الإسلام الشيخ محمد بن يعقوب الكليني",
      "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_rawda_8.pdf"
