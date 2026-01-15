@@ -3,47 +3,62 @@
     {
       "id": "kafi",
       "title": "الكافي",
-      "author": "الكليني",
+      "author": "محمد بن يعقوب الكليني",
       "cover": "covers/kafi.jpg",
      "parts": [
   {
     "id": "kafi_1",
     "title": "الجزء الأول",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_usul_1.pdf"
   },
   {
     "id": "kafi_2",
     "title": "الجزء الثاني",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_usul_2.pdf"
   },
   {
     "id": "kafi_3",
     "title": "الجزء الثالث",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_3.pdf"
   },
   {
     "id": "kafi_4",
     "title": "الجزء الرابع",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_4.pdf"
   },
   {
     "id": "kafi_5",
     "title": "الجزء الخامس",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_5.pdf"
   },
   {
     "id": "kafi_6",
     "title": "الجزء السادس",
+          "author": "محمد بن يعقوب الكليني",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_6.pdf"
   },
   {
     "id": "kafi_7",
     "title": "الجزء السابع",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_furu_7.pdf"
   },
   {
     "id": "kafi_8",
     "title": "الجزء الثامن",
+          "author": "محمد بن يعقوب الكليني",
+     "cover": "covers/kafi.jpg",
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/kafi/kafi_rawda_8.pdf"
   }
 ]
@@ -51,19 +66,261 @@
     },
 
     {
-      "id": "nahj",
+      "id": "nahij",
       "title": "نهج البلاغة",
-      "author": "الإمام علي (ع)",
-      "cover": "covers/nahij-balagha.jpg",
-      "pdf": "pdfs/rsfgedgr.pdf"
+      "author": "السيد الشريف الرضي",
+      "cover": "covers/alfekerimgbk00798cvr.jpeg",
+          "parts": [
+              {
+    "id": "nahij_1",
+    "title": "نهج البلاغة",
+           "author": "السيد الشريف الرضي",
+     "cover": "covers/alfekerimgbk00798cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/nahij/nahij-albalagha.pdf"
+  },
+  
+  {
+    "id": "nahij_2",
+    "title": "نهج البلاغة - الدكتور صبحي صالح",
+           "author": "الدكتور صبحي صالح",
+     "cover": "covers/nhjblaghAASALEHI_000cover.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/nahij/subhy-salih.pdf"
+  },
+              {
+    "id": "nahij_3",
+    "title": "شرح نهج البلاغة - الشيخ محمد عبده",
+           "author": "الشيخ محمد عبده",
+     "cover": "covers/nahij-balagha.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/nahij/mohammed-abde.pdf"
+  },
+                         {
+    "id": "nahij_4",
+    "title": "شرح حكم نهج البلاغة",
+           "author": "الشيخ عباس القمي",
+     "cover": "covers/SHRHHKMNHJQOMI_000cover.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/nahij/abbas-alqummy.pdf"
+  },
+          ],
     },
 
     {
-      "id": "wasael_001",
+      "id": "wasael",
       "title": "وسائل الشيعة",
-      "author": "الحر العاملي",
-      "cover": "covers/rsfgedgr.jpeg",
-      "pdf": "pdfs/rsfgedgr.pdf"
+      "author": "الشيخ محمد بن الحسن الحر العاملي",
+      "cover": "covers/alfekerimgbk00816cvr.jpeg",
+"parts": [
+  {
+    "id": "wasael_1",
+    "title": "الجزء الأول - الطهارة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was1.pdf"
+  },
+  {
+    "id": "wasael_2",
+    "title": "الجزء الثاني - الطهارة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was2.pdf"
+  },
+  {
+    "id": "wasael_3",
+    "title": "الجزء الثالث - الطهارة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was3.pdf"
+  },
+  {
+    "id": "wasael_4",
+    "title": "الجزء الرابع - الصلاة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was4.pdf"
+  },
+  {
+    "id": "wasael_5",
+    "title": "الجزء الخامس - الصلاة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was05.pdf"
+  },
+  {
+    "id": "wasael_6",
+    "title": "الجزء السادس - الصلاة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was6.pdf"
+  },
+  {
+    "id": "wasael_7",
+    "title": "الجزء السابع - الصلاة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was7.pdf"
+  },
+  {
+    "id": "wasael_8",
+    "title": "الجزء الثامن - الصلاة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was8.pdf"
+  },
+  {
+    "id": "wasael_9",
+    "title": "الجزء التاسع - الزكاة والخمس",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was9.pdf"
+  },
+  {
+    "id": "wasael_10",
+    "title": "الجزء العاشر - الصوم",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was10.pdf"
+  },
+  {
+    "id": "wasael_11",
+    "title": "الجزء الحادي عشر - الحج",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was11.pdf"
+  },
+  {
+    "id": "wasael_12",
+    "title": "الجزء الثاني عشر - الحج",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was12.pdf"
+  },
+  {
+    "id": "wasael_13",
+    "title": "الجزء الثالث عشر - الحج",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was13.pdf"
+  },
+  {
+    "id": "wasael_14",
+    "title": "الجزء الرابع عشر - الحج",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was14.pdf"
+  },
+  {
+    "id": "wasael_15",
+    "title": "الجزء الخامس عشر - الجهاد",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was15.pdf"
+  },
+  {
+    "id": "wasael_16",
+    "title": "الجزء السادس عشر - الجهاد والأمر بالمعروف",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was16.pdf"
+  },
+  {
+    "id": "wasael_17",
+    "title": "الجزء السابع عشر - التجارة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was17.pdf"
+  },
+  {
+    "id": "wasael_18",
+    "title": "الجزء الثامن عشر - التجارة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was18.pdf"
+  },
+  {
+    "id": "wasael_19",
+    "title": "الجزء التاسع عشر - الشركة والوصاية",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was19.pdf"
+  },
+  {
+    "id": "wasael_20",
+    "title": "الجزء العشرون - النكاح",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was20.pdf"
+  },
+  {
+    "id": "wasael_21",
+    "title": "الجزء الحادي والعشرون - النكاح",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was21.pdf"
+  },
+  {
+    "id": "wasael_22",
+    "title": "الجزء الثاني والعشرون - الطلاق واللعان",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was22.pdf"
+  },
+  {
+    "id": "wasael_23",
+    "title": "الجزء الثالث والعشرون - العتق والصيد والذباحة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was23.pdf"
+  },
+  {
+    "id": "wasael_24",
+    "title": "الجزء الرابع والعشرون - الأطعمة والأشربة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was24.pdf"
+  },
+  {
+    "id": "wasael_25",
+    "title": "الجزء الخامس والعشرون - الأطعمة والأشربة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was25.pdf"
+  },
+  {
+    "id": "wasael_26",
+    "title": "الجزء السادس والعشرون - الإرث",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was26.pdf"
+  },
+  {
+    "id": "wasael_27",
+    "title": "الجزء السابع والعشرون - القضاء والشهادة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was27.pdf"
+  },
+  {
+    "id": "wasael_28",
+    "title": "الجزء الثامن والعشرون - الحدود والتعزيرات",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was28.pdf"
+  },
+  {
+    "id": "wasael_29",
+    "title": "الجزء التاسع والعشرون - القصاص والديات",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was29.pdf"
+  },
+  {
+    "id": "wasael_30",
+    "title": "الجزء الثلاثون - الخاتمة",
+    "author": "الشيخ محمد بن الحسن الحر العاملي",
+    "cover": "covers/alfekerimgbk00816cvr.jpeg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/wasael/was30.pdf"
+  }
+],
+
     }
   ]
 }
