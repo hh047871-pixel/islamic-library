@@ -322,6 +322,774 @@
   }
 ]
 
+    },
+       {
+      "id": "bihar",
+      "title": "بحار الانوار",
+      "author": "العلامة محمد باقر المجلسي",
+      "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+          "parts": [
+   {
+    "id": "bihar_1",
+    "title": "الجزء الاول - الكتاب والمؤلف",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih1.pdf"
+  },
+  {
+    "id": "bihar_2",
+    "title": "الجزء الثاني - العقل والجهل",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih2.pdf"
+  },
+  {
+    "id": "bihar_3",
+    "title": "الجزء الثالث - كتاب العلم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih3.pdf"
+  },
+  {
+    "id": "bihar_4",
+    "title": "الجزء الرابع - كتاب التوحيد",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih4.pdf"
+  },
+  {
+    "id": "bihar_5",
+    "title": "الجزء الخامس - العدل والمعاد",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih5.pdf"
+  },
+  {
+    "id": "bihar_6",
+    "title": "الجزء السادس - العدل والمعاد",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih6.pdf"
+  },
+  {
+    "id": "bihar_7",
+    "title": "الجزء السابع - العدل والمعاد",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih7.pdf"
+  },
+            {
+    "id": "bihar_8",
+    "title": "الجزء الثامن - العدل والمعاد",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih8.pdf"
+  },
+  {
+    "id": "bihar_9",
+    "title": "الجزء التاسع - الإحتجاج والمناظرة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih9.pdf"
+  },
+  {
+    "id": "bihar_10",
+    "title": "الجزء العاشر - الإحتجاج والمناظرة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih10.pdf"
+  }, {
+    "id": "bihar_11",
+    "title": "الجزء الحادي عشر - تاريخ الأنبياء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih11.pdf"
+  },
+  {
+    "id": "bihar_12",
+    "title": "الجزء الثاني عشر - تاريخ الأنبياء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih12.pdf"
+  },
+  {
+    "id": "bihar_13",
+    "title": "الجزء الثالث عشر - تاريخ الأنبياء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih13.pdf"
+  },
+  {
+    "id": "bihar_14",
+    "title": "الجزء الرابع عشر - تاريخ الأنبياء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih14.pdf"
+  },
+  {
+    "id": "bihar_15",
+    "title": "الجزء الخامس عشر - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih15.pdf"
+  },
+  {
+    "id": "bihar_16",
+    "title": "الجزء السادس عشر - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih16.pdf"
+  },
+  {
+    "id": "bihar_17",
+    "title": "الجزء السابع عشر - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih17.pdf"
+  },
+  {
+    "id": "bihar_18",
+    "title": "الجزء الثامن عشر - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih18.pdf"
+  },
+  {
+    "id": "bihar_19",
+    "title": "الجزء التاسع عشر - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih19.pdf"
+  },
+  {
+    "id": "bihar_20",
+    "title": "الجزء العشرون - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih20.pdf"
+  }, {
+    "id": "bihar_21",
+    "title": "الجزء الحادي والعشرون - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih21.pdf"
+  },
+  {
+    "id": "bihar_22",
+    "title": "الجزء الثاني والعشرون - تاريخ محمد (ص)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih22.pdf"
+  },
+  {
+    "id": "bihar_23",
+    "title": "الجزء الثالث والعشرون - كتاب الإمامة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih23.pdf"
+  },
+  {
+    "id": "bihar_24",
+    "title": "الجزء الرابع والعشرون - كتاب الإمامة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih24.pdf"
+  },
+  {
+    "id": "bihar_25",
+    "title": "الجزء الخامس والعشرون - كتاب الإمامة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih25.pdf"
+  },
+  {
+    "id": "bihar_26",
+    "title": "الجزء السادس والعشرون - كتاب الإمامة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih26.pdf"
+  },
+  {
+    "id": "bihar_27",
+    "title": "الجزء السابع والعشرون - كتاب الإمامة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih27.pdf"
+  },
+  {
+    "id": "bihar_28",
+    "title": "الجزء الثامن والعشرون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih28.pdf"
+  },
+  {
+    "id": "bihar_29",
+    "title": "الجزء التاسع والعشرون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih29.pdf"
+  },
+  {
+    "id": "bihar_30",
+    "title": "الجزء الثلاثون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih30.pdf"
+  }, {
+    "id": "bihar_31",
+    "title": "الجزء الحادي والثلاثون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih31.pdf"
+  },
+  {
+    "id": "bihar_32",
+    "title": "الجزء الثاني والثلاثون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih32.pdf"
+  },
+  {
+    "id": "bihar_33",
+    "title": "الجزء الثالث والثلاثون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih33.pdf"
+  },
+  {
+    "id": "bihar_34",
+    "title": "الجزء الرابع والثلاثون - الفتن والمحن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih34.pdf"
+  },
+  {
+    "id": "bihar_35",
+    "title": "الجزء الخامس والثلاثون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih35.pdf"
+  },
+  {
+    "id": "bihar_36",
+    "title": "الجزء السادس والثلاثون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih36.pdf"
+  },
+  {
+    "id": "bihar_37",
+    "title": "الجزء السابع والثلاثون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih37.pdf"
+  },
+  {
+    "id": "bihar_38",
+    "title": "الجزء الثامن والثلاثون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih38.pdf"
+  },
+  {
+    "id": "bihar_39",
+    "title": "الجزء التاسع والثلاثون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih39.pdf"
+  },
+  {
+    "id": "bihar_40",
+    "title": "الجزء الأربعون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih40.pdf"
+  },{
+    "id": "bihar_41",
+    "title": "الجزء الحادي والأربعون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih41.pdf"
+  },
+  {
+    "id": "bihar_42",
+    "title": "الجزء الثاني والأربعون - تاريخ علي (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih42.pdf"
+  },
+  {
+    "id": "bihar_43",
+    "title": "الجزء الثالث والأربعون - تاريخ الزهراء (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih43.pdf"
+  },
+  {
+    "id": "bihar_44",
+    "title": "الجزء الرابع والأربعون - تاريخ الحسن (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih44.pdf"
+  },
+  {
+    "id": "bihar_45",
+    "title": "الجزء الخامس والأربعون - تاريخ الحسين (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih45.pdf"
+  },
+  {
+    "id": "bihar_46",
+    "title": "الجزء السادس والأربعون - تاريخ السجاد والباقر (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih46.pdf"
+  },
+  {
+    "id": "bihar_47",
+    "title": "الجزء السابع والأربعون - تاريخ الصادق (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih47.pdf"
+  },
+  {
+    "id": "bihar_48",
+    "title": "الجزء الثامن والأربعون - تاريخ الكاظم (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih48.pdf"
+  },
+  {
+    "id": "bihar_49",
+    "title": "الجزء التاسع والأربعون - تاريخ الرضا (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih49.pdf"
+  },
+  {
+    "id": "bihar_50",
+    "title": "الجزء الخمسون - تاريخ الجواد والعسكريين (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih50.pdf"
+  }, {
+    "id": "bihar_51",
+    "title": "الجزء الحادي والخمسون - تاريخ الحجة (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih51.pdf"
+  },
+  {
+    "id": "bihar_52",
+    "title": "الجزء الثاني والخمسون - تاريخ الحجة (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih52.pdf"
+  },
+  {
+    "id": "bihar_53",
+    "title": "الجزء الثالث والخمسون - تاريخ الحجة (ع)",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih53.pdf"
+  },
+  {
+    "id": "bihar_54",
+    "title": "الجزء الرابع والخمسون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih54.pdf"
+  },
+  {
+    "id": "bihar_55",
+    "title": "الجزء الخامس والخمسون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih55.pdf"
+  },
+  {
+    "id": "bihar_56",
+    "title": "الجزء السادس والخمسون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih56.pdf"
+  },
+  {
+    "id": "bihar_57",
+    "title": "الجزء السابع والخمسون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih57.pdf"
+  },
+  {
+    "id": "bihar_58",
+    "title": "الجزء الثامن والخمسون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih58.pdf"
+  },
+  {
+    "id": "bihar_59",
+    "title": "الجزء التاسع والخمسون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih59.pdf"
+  },
+  {
+    "id": "bihar_60",
+    "title": "الجزء الستون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih60.pdf"
+  }, {
+    "id": "bihar_61",
+    "title": "الجزء الحادي والستون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih61.pdf"
+  },
+  {
+    "id": "bihar_62",
+    "title": "الجزء الثاني والستون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih62.pdf"
+  },
+  {
+    "id": "bihar_63",
+    "title": "الجزء الثالث والستون - السماء والعالم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih63.pdf"
+  },
+  {
+    "id": "bihar_64",
+    "title": "الجزء الرابع والستون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih64.pdf"
+  },
+  {
+    "id": "bihar_65",
+    "title": "الجزء الخامس والستون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih65.pdf"
+  },
+  {
+    "id": "bihar_66",
+    "title": "الجزء السادس والستون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih66.pdf"
+  },
+  {
+    "id": "bihar_67",
+    "title": "الجزء السابع والستون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih67.pdf"
+  },
+  {
+    "id": "bihar_68",
+    "title": "الجزء الثامن والستون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih68.pdf"
+  },
+  {
+    "id": "bihar_69",
+    "title": "الجزء التاسع والستون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih69.pdf"
+  },
+  {
+    "id": "bihar_70",
+    "title": "الجزء السبعون - الإيمان والكفر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih70.pdf"
+  },{
+    "id": "bihar_71",
+    "title": "الجزء الحادي والسبعون - كتاب العترة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih71.pdf"
+  },
+  {
+    "id": "bihar_72",
+    "title": "الجزء الثاني والسبعون - كتاب العترة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih72.pdf"
+  },
+  {
+    "id": "bihar_73",
+    "title": "الجزء الثالث والسبعون - الآداب والسنن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih73.pdf"
+  },
+  {
+    "id": "bihar_74",
+    "title": "الجزء الرابع والسبعون - كتاب الروضة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih74.pdf"
+  },
+  {
+    "id": "bihar_75",
+    "title": "الجزء الخامس والسبعون - كتاب الروضة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih75.pdf"
+  },
+  {
+    "id": "bihar_76",
+    "title": "الجزء السادس والسبعون - كتاب النواهي",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih76.pdf"
+  },
+  {
+    "id": "bihar_77",
+    "title": "الجزء السابع والسبعون - كتاب الطهارة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih77.pdf"
+  },
+  {
+    "id": "bihar_78",
+    "title": "الجزء الثامن والسبعون - كتاب الطهارة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih78.pdf"
+  },
+  {
+    "id": "bihar_79",
+    "title": "الجزء التاسع والسبعون - كتاب الطهارة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih79.pdf"
+  },
+  {
+    "id": "bihar_80",
+    "title": "الجزء الثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih80.pdf"
+  },{
+    "id": "bihar_81",
+    "title": "الجزء الحادي والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih81.pdf"
+  },
+  {
+    "id": "bihar_82",
+    "title": "الجزء الثاني والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih82.pdf"
+  },
+  {
+    "id": "bihar_83",
+    "title": "الجزء الثالث والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih83.pdf"
+  },
+  {
+    "id": "bihar_84",
+    "title": "الجزء الرابع والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih84.pdf"
+  },
+  {
+    "id": "bihar_85",
+    "title": "الجزء الخامس والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih85.pdf"
+  },
+  {
+    "id": "bihar_86",
+    "title": "الجزء السادس والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih86.pdf"
+  },
+  {
+    "id": "bihar_87",
+    "title": "الجزء السابع والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih87.pdf"
+  },
+  {
+    "id": "bihar_88",
+    "title": "الجزء الثامن والثمانون - كتاب الصلاة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih88.pdf"
+  },
+  {
+    "id": "bihar_89",
+    "title": "الجزء التاسع والثمانون - كتاب القرآن",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih89.pdf"
+  },
+  {
+    "id": "bihar_90",
+    "title": "الجزء التسعون - القرآن والدعاء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih90.pdf"
+  },{
+    "id": "bihar_91",
+    "title": "الجزء الحادي والتسعون - الذكر والدعاء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih91.pdf"
+  },
+  {
+    "id": "bihar_92",
+    "title": "الجزء الثاني والتسعون - الذكر والدعاء",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih92.pdf"
+  },
+  {
+    "id": "bihar_93",
+    "title": "الجزء الثالث والتسعون - الزكاة والخمس",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih93.pdf"
+  },
+  {
+    "id": "bihar_94",
+    "title": "الجزء الرابع والتسعون - كتاب الصوم",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih94.pdf"
+  },
+  {
+    "id": "bihar_95",
+    "title": "الجزء الخامس والتسعون - أعمال الأيام",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih95.pdf"
+  },
+  {
+    "id": "bihar_96",
+    "title": "الجزء السادس والتسعون - الحج والعمرة",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih96.pdf"
+  },
+  {
+    "id": "bihar_97",
+    "title": "الجزء السابع والتسعون - الجهاد والمزار",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih97.pdf"
+  },
+  {
+    "id": "bihar_98",
+    "title": "الجزء الثامن والتسعون - كتاب المزار",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih98.pdf"
+  },
+  {
+    "id": "bihar_99",
+    "title": "الجزء التاسع والتسعون - كتاب المزار",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih99.pdf"
+  },
+  {
+    "id": "bihar_100",
+    "title": "الجزء المائة - العقود والإيقاعات",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih100.pdf"
+  }, {
+    "id": "bihar_101",
+    "title": "الجزء المائة وواحد - الإيقاعات والأحكام",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih101.pdf"
+  },
+  {
+    "id": "bihar_102",
+    "title": "الجزء المائة واثنان - كتاب الإجازات",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih102.pdf"
+  },
+  {
+    "id": "bihar_103",
+    "title": "الجزء المائة وثلاثة - فهرست المصادر",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih103.pdf"
+  },
+  {
+    "id": "bihar_104",
+    "title": "الجزء المائة وأربعة - كتاب الإجازات",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih104.pdf"
+  },
+  {
+    "id": "bihar_105",
+    "title": "الجزء المائة وخمسة - كتاب الإجازات",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih105.pdf"
+  },
+  {
+    "id": "bihar_106",
+    "title": "الجزء المائة وستة - كتاب الإجازات",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih106.pdf"
+  },
+  {
+    "id": "bihar_107",
+    "title": "الجزء المائة وسبعة - كتاب الإجازات",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih107.pdf"
+  },
+  {
+    "id": "bihar_108",
+    "title": "الجزء المائة وثمانية - (0-28) الفهرست",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih108.pdf"
+  },
+  {
+    "id": "bihar_109",
+    "title": "الجزء المائة وتسعة - (35-63) الفهرست",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih109.pdf"
+  },
+  {
+    "id": "bihar_110",
+    "title": "الجزء المائة وعشرة - (64-110) الفهرست",
+    "author": "العلامة محمد باقر المجلسي",
+    "cover": "covers/dhnbw389sdh23sgh8SHJ29Hsvdrertr.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih110.pdf"
+  } 
+          ]
     }
   ]
 }
