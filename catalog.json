@@ -1090,6 +1090,35 @@
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/bihar/bih110.pdf"
   } 
           ]
+    },
+    {
+      "id": "mirat",
+      "title": "الكافي",
+      "author": "الشيخ عبدالله المامقاني",
+      "cover": "covers/mirat.jpg",
+     "parts": [
+  {
+    "id": "mirat_1",
+    "title": "الجزء الأول",
+      "author": "الشيخ عبدالله المامقاني",
+     "cover": "covers/mirat.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/mirat/1.pdf"
+  },
+        {
+    "id": "mirat_2",
+    "title": "الجزء الثاني",
+      "author": "الشيخ عبدالله المامقاني",
+     "cover": "covers/mirat.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/mirat/2.pdf"
+  },
+       {
+    "id": "mirat_3",
+    "title": "الجزء الثالث",
+      "author": "الشيخ عبدالله المامقاني",
+     "cover": "covers/mirat.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/mirat/3.pdf"
+  }
+     ]
     }
   ]
 }
