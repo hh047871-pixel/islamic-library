@@ -1093,7 +1093,7 @@
     },
     {
       "id": "mirat",
-      "title": "الكافي",
+      "title": "مرآة الكمال",
       "author": "الشيخ عبدالله المامقاني",
       "cover": "covers/mirat.jpg",
      "parts": [
@@ -1126,6 +1126,71 @@
       "author": "عبد الواحد بن محمد التميمي الآمدي",
       "cover": "covers/durar.jpg",
        "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/1.pdf"
-     }
+     },
+    {
+      "id": "alamaly",
+      "title": "الأمالي",
+      "author": "الشيخ الصدوق محمد بن علي بن بابويه القمي",
+      "cover": "covers/2.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/2.pdf"
+     },
+      {
+      "id": "uyon",
+      "title": "عيون أخبار الرضا (ع)",
+      "author": "الشيخ الصدوق أبو جعفر محمد بن علي ابن بابويه القمي",
+      "cover": "covers/3.jpg",
+     "parts": [
+  {
+    "id": "uyon_1",
+    "title": "الجزء الأول",
+      "author": "الشيخ الصدوق ، حققه وصحح أسانيده الشيخ أحمد الماحوزي",
+     "cover": "covers/3.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/3.pdf"
+  },
+        {
+    "id": "uyon_2",
+    "title": "الجزء الثاني",
+      "author": "الشيخ الصدوق ، حققه وصحح أسانيده الشيخ أحمد الماحوزي",
+     "cover": "covers/3.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/4.pdf"
+  },
+       {
+    "id": "uyon_3",
+    "title": "الجزء الثالث",
+      "author": "الشيخ الصدوق ، حققه وصحح أسانيده الشيخ أحمد الماحوزي",
+     "cover": "covers/3.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/5.pdf"
+  }
+     ]
+    },
+         {
+      "id": "minhaj",
+      "title": "منهاج الصالحين",
+      "author": "السيد علي الحسيني السيستاني",
+      "cover": "covers/4.jpg",
+     "parts": [
+  {
+    "id": "minhaj_1",
+    "title": "الجزء الأول",
+      "author": "السيد علي الحسيني السيستاني",
+     "cover": "covers/4.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/6.pdf"
+  },
+        {
+    "id": "minhajt_2",
+    "title": "الجزء الثاني",
+      "author": "السيد علي الحسيني السيستاني",
+     "cover": "covers/4.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/7.pdf"
+  },
+       {
+    "id": "minhaj_3",
+    "title": "الجزء الثالث",
+      "author": "السيد علي الحسيني السيستاني",
+     "cover": "covers/4.jpg",
+    "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/8.pdf"
+  }
+     ]
+    }
   ]
 }
