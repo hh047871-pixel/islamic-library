@@ -1191,6 +1191,140 @@
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/8.pdf"
   }
      ]
+    },
+    {
+  "id": "mizan",
+  "title": "ميزان الحكمة",
+  "author": "الشيخ محمد الريشهري",
+  "cover": "covers/5.jpg",
+  "parts": [
+    {
+      "id": "mizan_1",
+      "title": "الجزء الأول",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/9.pdf"
+    },
+    {
+      "id": "mizan_2",
+      "title": "الجزء الثاني",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/10.pdf"
+    },
+    {
+      "id": "mizan_3",
+      "title": "الجزء الثالث",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/11.pdf"
+    },
+    {
+      "id": "mizan_4",
+      "title": "الجزء الرابع",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/12.pdf"
+    },
+    {
+      "id": "mizan_5",
+      "title": "الجزء الخامس",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/13.pdf"
+    },
+    {
+      "id": "mizan_6",
+      "title": "الجزء السادس",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/14.pdf"
+    },
+    {
+      "id": "mizan_7",
+      "title": "الجزء السابع",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/15.pdf"
+    },
+    {
+      "id": "mizan_8",
+      "title": "الجزء الثامن",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/16.pdf"
+    },
+    {
+      "id": "mizan_9",
+      "title": "الجزء التاسع",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/17.pdf"
+    },
+    {
+      "id": "mizan_10",
+      "title": "الجزء العاشر",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/18.pdf"
+    },
+    {
+      "id": "mizan_11",
+      "title": "الجزء الحادي عشر",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/19.pdf"
+    },
+    {
+      "id": "mizan_12",
+      "title": "الجزء الثاني عشر",
+      "author": "الشيخ محمد الريشهري",
+      "cover": "covers/5.jpg",
+      "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/20.pdf"
     }
+  ]
+       },
+       {
+      "id": "imama",
+      "title": "الإمامة في مدرسة أهل البيت (ع)",
+      "author": "الشيخ باقر شريف القرشي",
+      "cover": "covers/fff.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/imama.pdf"
+     },
+      {
+      "id": "iqtisaduna",
+      "title": "اقتصادنا",
+      "author": "الشهيد السيد محمد باقر الصدر",
+      "cover": "covers/ffd.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/iqtisaduna.pdf"
+     },
+       {
+      "id": "fal",
+      "title": "فلسفتنا",
+      "author": "الشهيد السيد محمد باقر الصدر",
+      "cover": "covers/ffg.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/fal.pdf"
+     },
+       {
+      "id": "mahd",
+      "title": "المهدي المنتظر (عجل الله فرجه الشريف) الإمام الثاني عشر",
+      "author": "السيد محمد سعيد الطباطبائي الحكيم",
+      "cover": "covers/mahd.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/mahd.pdf"
+     },
+        {
+      "id": "sav1",
+      "title": "سفينة النجاة",
+      "author": "محمد بن المرتضى المدعو بالمولى محسن الكاشاني-مع ترجمة الشيخ محمد رضا التفرشي النوساني",
+      "cover": "covers/coverfeker002566cvr.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/coverfeker002566cvr.pdf"
+     }, 
+    {
+      "id": "sav2",
+      "title": "سفينة النجاة",
+      "author": "الشيخ محمد بن عبدالفتاح التنكابني",
+      "cover": "covers/sfntnjattnkbnicvr.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/sfntnjattnkbnicvr.pdf"
+     }
   ]
 }
