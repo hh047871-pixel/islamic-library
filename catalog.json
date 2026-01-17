@@ -1119,6 +1119,13 @@
     "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/mirat/3.pdf"
   }
      ]
-    }
+    },
+     {
+      "id": "durar",
+      "title": "غرر الحكم ودرر الكلم",
+      "author": "عبد الواحد بن محمد التميمي الآمدي",
+      "cover": "covers/durar.jpg",
+       "pdf": "https://raw.githubusercontent.com/hh047871-pixel/islamic-library/main/covers/pdfs/general/1.pdf"
+     }
   ]
 }
